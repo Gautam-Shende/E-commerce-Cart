@@ -1,5 +1,5 @@
 🛒 E-Commerce Shopping Cart
-Built with React.js ⚛️ + TypeScript 🔷
+Built with React.js ⚛️ 🔷
 
 A fully functional shopping cart for an e-commerce website, featuring product listings, cart management, and a smooth checkout experience.
 
